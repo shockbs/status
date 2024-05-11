@@ -12,9 +12,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://shockbs.is-a.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.03a904e8.ico&w=64&q=75
   name: Shock BS Status
-  introTitle: "Monitoring ShockBS's stuffs"
+  #introTitle: ""
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
