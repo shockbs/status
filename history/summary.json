@@ -4,19 +4,19 @@
     "url": "https://shockbs.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/shockbs.is-a.dev.ico",
     "slug": "shock-bs-portfolio",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 341,
-    "timeDay": 250,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "status": "up",
+    "uptime": "91.09%",
+    "uptimeDay": "86.73%",
+    "uptimeWeek": "91.09%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "91.09%",
+    "time": 334,
+    "timeDay": 266,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2024-05-12": 2
+      "2024-05-12": 191
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.shockbs.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/api.shockbs.is-a.dev.ico",
     "slug": "shock-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "91.16%",
+    "uptimeDay": "86.83%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "91.16%",
     "time": 266,
     "timeDay": 264,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-05-12": 0
+      "2024-05-12": 190
     }
   }
 ]
