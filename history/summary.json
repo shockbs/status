@@ -53,19 +53,19 @@
     "url": "https://gg.shockbs.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gg.shockbs.is-a.dev.ico",
     "slug": "shock-cdn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 542,
-    "timeWeek": 542,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 761,
+    "timeDay": 761,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-05-22": 0
+      "2024-05-22": 10
     }
   }
 ]
