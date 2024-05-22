@@ -7,7 +7,7 @@ sites:
     url: https://shockbs.is-a.dev
   - name: Shock API
     url: https://api.shockbs.is-a.dev
-  - name: Shock Storage
+  - name: Shock CDN
     url: https://gg.shockbs.is-a.dev
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
