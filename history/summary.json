@@ -53,7 +53,7 @@
     "url": "https://gg.shockbs.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gg.shockbs.is-a.dev.ico",
     "slug": "shock-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "95.54%",
     "uptimeDay": "92.61%",
     "uptimeWeek": "95.54%",
@@ -65,6 +65,7 @@
     "timeMonth": 1212,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-05-23": 107
     }
   }
