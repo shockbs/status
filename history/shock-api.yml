@@ -1,7 +1,7 @@
 url: https://api.shockbs.is-a.dev
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2024-05-29T02:18:10.705Z
+status: down
+code: 503
+responseTime: 341
+lastUpdated: 2024-05-29T12:21:57.686Z
 startTime: 2024-05-11T04:45:42.409Z
 generator: Upptime <https://github.com/upptime/upptime>
