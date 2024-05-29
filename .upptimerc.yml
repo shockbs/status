@@ -16,7 +16,7 @@ status-website:
   #baseUrl: /status
   logoUrl: https://shockbs.is-a.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.03a904e8.ico&w=64&q=75
   name: Shock BS Status
-  #introTitle: ""
+  introTitle: "ShockBS"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
