@@ -1,7 +1,7 @@
 url: https://api.shockbs.is-a.dev/ping/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-09T23:14:23.899Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2024-08-10T01:38:33.940Z
 startTime: 2024-05-11T04:45:42.409Z
 generator: Upptime <https://github.com/upptime/upptime>
