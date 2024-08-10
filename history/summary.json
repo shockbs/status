@@ -30,7 +30,7 @@
     "url": "https://api.shockbs.is-a.dev/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/api.shockbs.is-a.dev.ico",
     "slug": "shock-api",
-    "status": "up",
+    "status": "down",
     "uptime": "95.78%",
     "uptimeDay": "55.69%",
     "uptimeWeek": "89.83%",
